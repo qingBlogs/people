@@ -69,7 +69,7 @@ function _createClass(e, r, t) {
 }
 var config = {
     // src: "https://f.zhheo.com/Guli/others/open-peeps-sheet.png",
-    src: '../image/open-peeps-sheet.png',
+    src: 'https://qingblogs.github.io/people/image/open-peeps-sheet.png',
     rows: 15,
     cols: 7,
   },
